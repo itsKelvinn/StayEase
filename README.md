@@ -60,4 +60,4 @@
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+© 2023 Kelvin G
